@@ -48,7 +48,7 @@ A real-time cricket scoring application built with NestJS backend and Next.js fr
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ReallyKrishna/cricket-scoring-app.git
    cd cricket-scoring-app
    ```
 
